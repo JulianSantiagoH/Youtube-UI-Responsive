@@ -1,5 +1,7 @@
-body{
+body,html{
     background-color: #0F0F0F;
+    height: 100%;
+    overflow-y: hidden;
 }
 
 .button-style-transparent{

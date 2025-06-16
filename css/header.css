@@ -6,30 +6,8 @@
   }
   .header-buttons-container{
     display: flex;
+    gap: 10px;
     width: 100%;
     justify-content: flex-end;
   }
-}
-
-.filters-container{
-    margin-left: 7px;
-    display: flex;
-    gap: 14px;
-    max-width: 100%;
-    overflow-x:auto;
-    align-items: center;
-}
-
-.filter-container-compass{
-    margin-right: 20px;
-}
-
-.button-filter{
-    white-space: nowrap;
-    padding: 10px;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    background-color: #272727;
-    cursor: pointer;
 }
